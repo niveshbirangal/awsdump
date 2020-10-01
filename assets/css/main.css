@@ -2257,7 +2257,7 @@ background-size: cover;
 /* Intro */
 
 	#intro {
-		background:url("home11.png");
+		background:url("../../images/home11.png");
 		background-size: cover;
 		background-attachment: fixed;
 		background-position:center;
